@@ -124,7 +124,7 @@ export const footerData = {
   socialLinks: [
     { ariaLabel: 'Telegram', icon: 'tabler:brand-telegram', href: 'https://t.me/HerHolisticHome' },
     { ariaLabel: 'Email', icon: 'tabler:mail', href: 'mailto:lindsey@lindseyportugal.com' },
-    // { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
+    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/HHolisticHome' },
     // { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
     // { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],

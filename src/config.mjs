@@ -1,15 +1,15 @@
 import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
-  name: 'AstroWind',
+  name: 'Lindsey Portugal',
 
-  origin: 'https://astrowind.vercel.app',
+  origin: 'https://lindseyportugal.com',
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'AstroWind — Free template for create a website with Astro + Tailwind CSS',
+  title: 'Lindsey Portugal',
   description:
-    '🚀 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs.',
+    'Welcome! If you have been to this site before you will notice that is has changed! As my life has shifted and I have even more children (mom of three now), my business goals have changed as well. So if you are here looking for a particular art piece, or a custom work, don\'t hesitate to reach out.',
   defaultImage: defaultImage,
 
   defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"

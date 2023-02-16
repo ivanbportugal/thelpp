@@ -53,8 +53,8 @@ export const headerData = {
       href: '/'
     },
     {
-      text: 'About Me',
-      href: '/about',
+      text: 'Contact Me',
+      href: '/contact-me',
     },
     // {
     //   text: 'Blog',

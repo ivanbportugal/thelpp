@@ -9,11 +9,12 @@ module.exports = {
         primary: 'var(--aw-color-primary)',
         secondary: 'var(--aw-color-secondary)',
         accent: 'var(--aw-color-accent)',
+        dark: 'rgb(15 23 42 / var(--tw-bg-opacity))'
       },
       fontFamily: {
         sans: ['var(--aw-font-sans)', ...defaultTheme.fontFamily.sans],
         serif: ['var(--aw-font-serif)', ...defaultTheme.fontFamily.serif],
-        heading: ['var(--aw-font-heading)', ...defaultTheme.fontFamily.sans],
+        heading: ['var(--aw-font-heading)'],
       },
     },
   },

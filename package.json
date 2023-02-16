@@ -46,5 +46,8 @@
   },
   "engines": {
     "node": ">=16.12.0"
+  },
+  "dependencies": {
+    "@fontsource/poiret-one": "^4.5.11"
   }
 }

@@ -19,6 +19,15 @@ const { language = 'en', textDirection = 'ltr' } = SITE;
 <html lang={language} dir={textDirection} class="2xl:text-[20px]">
   <head>
     <MetaTags {...meta} />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5LT32FX371"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-5LT32FX371');
+    </script>
   </head>
 
   <body class="antialiased text-page bg-light dark:text-slate-300 tracking-tight dark:bg-dark">
